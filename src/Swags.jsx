@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-const template = "./images/swag/Mentor & Judge.png";
+const template = "./images/swag/new_mentor_frame.png";
 const defaultAvatar = "/images/swag/NewDefault_gaming.png";
 import FancyButton from "./FancyButton";
 
